@@ -12,6 +12,7 @@ The station values of temperature anomalies or the normalized precipitation anom
 The CANGRD grid is in polar stereographic projection with a 50 km spatial resolution. The grid is a 125 (columns) by 95 (rows) matrix, where the SW corner (0,0) is at 40.0451°N latitude and 129.8530°W longitude. The projection is true at 60.0°N and centered on 110.0°W. The file ‘CANGRD_points_LL.txt’ lists the latitudes and longitudes for each grid point.
 
 The filenames are six digit numbers in the format: ‘YYYYDD.grd’, where ‘YYYY’ represents a year and ‘DD’ represents the following: 
+
 -01 to 12 – month Jan to Dec;
 
 -13 - annual;
