@@ -1,4 +1,0 @@
-A failed attempt at handling the data found at https://crd-data-donnees-rdc.ec.gc.ca/CDAS/products/EC_data/CANGRD/
-
-I am not too sure how to handle the irregular grid and how to load properly all the data into a xarray dataset. 
-I thought I had done it until I realized that my grid was only the pixel count in the grd file. 
