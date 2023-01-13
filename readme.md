@@ -1,7 +1,7 @@
 A failed attempt at handling the data found at https://crd-data-donnees-rdc.ec.gc.ca/CDAS/products/EC_data/CANGRD/
 
 I am not too sure how to handle the irregular grid and how to load properly all the data into a xarray dataset. 
-I thought I had done it until I realized that my grid was only the pixel count in the grd file. 
+I thought I had done it until I realized that my grid was only the pixel index of the grd file. 
 
 ![download](https://user-images.githubusercontent.com/12923598/212220787-aaf043a1-56fa-48f8-9196-56b930751911.png)
 
